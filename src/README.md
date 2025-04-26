@@ -1,7 +1,7 @@
 
 # Repository Scanning 
 
-
+Lets go
 For this part of the workshop we've provide two vulnerable applications to work with.
 
 One is Java based, and the second is JavaScript. These can be found under:
